@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\praktika 1\praktika1\praktika1\bin\Debug\praktika1.exe.config
+C:\Users\User\Desktop\praktika 1\praktika1\praktika1\bin\Debug\praktika1.exe
+C:\Users\User\Desktop\praktika 1\praktika1\praktika1\bin\Debug\praktika1.pdb
+C:\Users\User\Desktop\praktika 1\praktika1\praktika1\obj\Debug\praktika1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\praktika 1\praktika1\praktika1\obj\Debug\praktika1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\praktika 1\praktika1\praktika1\obj\Debug\praktika1.exe
+C:\Users\User\Desktop\praktika 1\praktika1\praktika1\obj\Debug\praktika1.pdb
